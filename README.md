@@ -128,3 +128,6 @@ https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-s
 
 IMportant
 https://www.searchenginejournal.com/what-is-chatgpt/473664/
+
+https://360digitmg.com/blog/types-of-gpt-in-artificial-intelligence
+
