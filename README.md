@@ -1,4 +1,4 @@
-# GPT-3
+# Generative AI
 
 ## What is ChatGPT?
 ChatGPT is a large language model chatbot developed by OpenAI based on GPT-3.5. It has a remarkable ability to interact in conversational dialogue form and provide responses that can appear surprisingly human. Large language models perform the task of predicting the next word in a series of words. Reinforcement Learning with Human Feedback (RLHF) is an additional layer of training that uses human feedback to help ChatGPT learn the ability to follow directions and generate responses that are satisfactory to humans.
