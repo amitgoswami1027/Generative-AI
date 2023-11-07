@@ -1,9 +1,24 @@
+# Generative AI - Article
+
+
+
+
+
+
 # Generative AI
+* https://towardsdatascience.com/3-easy-methods-for-improving-your-large-language-model-68670fde9ffa
+* https://docs.endpoints.anyscale.com/pricing
+* https://sumanthrh.com/post/distributed-and-efficient-finetuning/
+* https://dmccreary.medium.com/the-jellyfish-and-the-flatworm-bdad78e6f68b
+* https://towardsdatascience.com/extending-context-length-in-large-language-models-74e59201b51f
+* https://www.marktechpost.com/2023/10/10/this-ai-paper-from-nvidia-explores-the-power-of-retrieval-augmentation-vs-long-context-in-language-models-which-reigns-supreme-and-can-they-coexist/
+* https://dcai.csail.mit.edu/lectures/data-centric-model-centric/
+* https://analyticsindiamag.com/the-cost-of-using-llms-for-enterprise/
+* https://towardsdatascience.com/transfer-learning-for-beginner-9b59490d1b9d
+* https://mkt-bcg-com-public-pdfs.s3.amazonaws.com/prod/c-suite-genai-concerns-challenges.pdf
+* https://ai.meta.com/llama/get-started/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=llama2&utm_content=image
 
-
-
-
-
+* 
 # Links
 * https://www.searchenginejournal.com/what-is-chatgpt/473664/
 * https://www.sciencefocus.com/future-technology/gpt-3/
