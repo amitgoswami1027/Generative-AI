@@ -1,4 +1,5 @@
 # Generative AI - Article
+https://ai.plainenglish.io/setting-up-context-aware-product-with-llmops-is-paramount-ba14ac32179
 
 
 
